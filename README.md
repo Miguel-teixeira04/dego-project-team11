@@ -1,7 +1,7 @@
 
 # DEGO Project - Team 11
 # # Team Members
-- [ Owner ’s Name ] - [ Miguel Teixeira]
+-[ Miguel Teixeira]
 -
 ## Project Description
 Credit scoring bias analysis for DEGO course .
