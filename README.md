@@ -3,6 +3,7 @@
 # # Team Members
 -[ Miguel Teixeira]
 -[ Leonardo Cantù]
+-[ Kaltoum El Glaoui Hamdellah]
 ## Project Description
 Credit scoring bias analysis for DEGO course .
 ## Structure
