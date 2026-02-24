@@ -1,2 +1,12 @@
-# dego-project-team11
-DEGO Course Project — Team 11
+
+# DEGO Project - Team 11
+# # Team Members
+- [ Owner ’s Name ] - [ Miguel Teixeira]
+-
+## Project Description
+Credit scoring bias analysis for DEGO course .
+## Structure
+- ‘ data /‘ - Dataset files
+- ‘ notebooks /‘ - Jupyter analysis notebooks
+- ‘ src /‘ - Python source code
+- ‘ reports /‘ - Final deliverables
