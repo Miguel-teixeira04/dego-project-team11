@@ -4,6 +4,7 @@
 -[ Miguel Teixeira]
 -[ Leonardo Cantù]
 -[ Kaltoum El Glaoui Hamdellah]
+-[Catarina Cardoso]
 ## Project Description
 Credit scoring bias analysis for DEGO course .
 ## Structure
