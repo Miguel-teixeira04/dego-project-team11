@@ -53,3 +53,5 @@ As the **Data Scientist**, I conducted a structured fairness audit on the cleane
 ### 2. Regulatory Exposure
 
 Under the **EU AI Act 2025** , credit scoring is a **high-risk AI application**. Based on our findings, NovaCred's current system would fail conformity assessment on Article 9 (risk management), Article 10 (data governance — discriminatory training patterns), and Article 13 (transparency — 82% of rejections cite only `algorithm_risk_score` with no human-interpretable basis).
+
+# **Video Presentation:** https://youtu.be/WqHqU5CC1bw 
